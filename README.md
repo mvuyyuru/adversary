@@ -153,3 +153,9 @@ The packets are dictionaries stores as pickles. See `adversary.py` for how these
 ### Evaluating a Model (Feature Robustness, Etc.)
 
 work in progress. :)
+
+### Models Checkpoints
+https://www.dropbox.com/s/fph11yxcgntq1rv/model_checkpoints.7z?dl=0
+
+### Paper
+https://arxiv.org/abs/2006.16427
